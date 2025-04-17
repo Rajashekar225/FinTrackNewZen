@@ -12,11 +12,14 @@ namespace FinTrackNewZen.Web.Controllers
         {
             return View();
         }
+<<<<<<< HEAD
         public IActionResult EditSuccess()
         {
             return View();
         }
 
 
+=======
+>>>>>>> origin/arjun-ViewFederation-pbi45
     }
 }
