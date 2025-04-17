@@ -12,5 +12,11 @@ namespace FinTrackNewZen.Web.Controllers
         {
             return View();
         }
+        public IActionResult EditSuccess()
+        {
+            return View();
+        }
+
+
     }
 }
